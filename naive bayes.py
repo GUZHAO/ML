@@ -1,4 +1,4 @@
-from sklearn import linear_model
+from sklearn.naive_bayes import GaussianNB
 
 # load train and test sets
 
@@ -8,19 +8,14 @@ y_train = target_variables_values_training_datasets
 
 x_test = input_variables_values_test_datasets
 
-# create linear regression object
+# create SVM classification object
 
-model = linear_model.LinearRegression()
+model = GaussianNB()
 
-# train the model using the training sets and check score
+# train model using the training sets and check result
 
 model.fit(x_train, y_train)
 model.score(x_train, y_train)
-
-# check coefficient and intercept
-
-print('coefficient: n', model.coef_)
-print('Intercept: n', model.intercept_)
 
 # predict output
 
