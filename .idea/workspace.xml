@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="da734688-be51-4969-9ae3-a0ee99b0bb15" name="Default" comment="" />
+=======
     <list default="true" id="da734688-be51-4969-9ae3-a0ee99b0bb15" name="Default" comment="">
       <change beforePath="" afterPath="$PROJECT_DIR$/RandomForest.py" />
       <change beforePath="$PROJECT_DIR$/.idea/ML.iml" afterPath="$PROJECT_DIR$/.idea/ML.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+>>>>>>> 644c3bb93d55f0b4d9fa4d13a082c7b32832f42b
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
